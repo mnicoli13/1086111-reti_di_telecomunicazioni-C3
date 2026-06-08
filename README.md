@@ -52,3 +52,4 @@ I risultati includono, con intervallo di confidenza al 95%:
 - Occupazione media L_i per ciascun server (coda + in servizio)
 - Indice di sbilanciamento = max_i(L_i) − min_i(L_i)
 # 1086111-reti_di_telecomunicazioni-C3
+# 1086111-reti_di_telecomunicazioni-C3
