@@ -51,3 +51,4 @@ I risultati includono, con intervallo di confidenza al 95%:
 - Sojourn time medio W (tempo medio di sistema per pacchetto)
 - Occupazione media L_i per ciascun server (coda + in servizio)
 - Indice di sbilanciamento = max_i(L_i) − min_i(L_i)
+# 1086111-reti_di_telecomunicazioni-C3
